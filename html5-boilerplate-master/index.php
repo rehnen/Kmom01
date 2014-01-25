@@ -32,6 +32,7 @@
             <header id="header" class="header">
                 <img src="img/bingo.png" alt="">
                 <nav id="navigation_links">
+                    <a href="">Hem</a>
                     <a href="">knom01</a>
                     <a href="">knom02</a>
                     <a href="">knom03</a>
@@ -45,10 +46,39 @@
             </header><!-- /header -->
 
             <section id="main_content">
-            <?php
-                echo "Hello World!";
-            ?>
+                <article id="article">
+                    <h2>Marcus Rehn</h2>
+                    <h3>Tankar och förhoppningar om kursen</h3>
+                    <p>Hej och välkomna till min me-mida för PHPMVC kursen</p>
+                    <p>Nu när jag läst alla andra kurser i detta packet så ser jag fram emot att äntligen beta av PHPMVC. 
+                    Jag har fattat att man bör ha en god förståelse för MVCramverk om man vill jobba som webbutvecklare, 
+                    eftersom det allt som oftast står i jobbannonser att de vill att man ska ha erfarenhet av att ha jobbat med det.
+                    </p>
+                    <p>Ja har testat ett par olika ramverk på fritiden, men jag har inte funnitt något som jag verkligen gillar ännu. 
+                    Syfony ser ut att vara det de oftast vill att man ska kunna, man jag ogillar att få en färdig applikation när jag förjar koda.
+                    Jag vill skriva appen med ett ramverk, jag vill inte ha en "ramverksapp" som jag sedan ska behöva hacka sönder. 
+                    Med andra ord vill jag säga att jag hoppas att det ramverk vi bygger själva i denna kurs inte är så bloatat som de andra ser ut 
+                    att vara.
+
+
+                    </p>
+                    
+                </article>
             </section>
+            <footer>
+                <nav>
+                    <h6>Kursmoment</h6>
+                    <a href="">knom01</a>
+                    <a href="">knom02</a>
+                    <a href="">knom03</a>
+                    <a href="">knom04</a>
+                    <a href="">knom05</a>
+                    <a href="">knom06</a>
+                    <a href="">knom07</a>
+                    <a href="">knom08</a>
+                </nav>
+                
+            </footer>
         </div>
 
 
